@@ -16,3 +16,7 @@ OI-Archive 是一个 OI 题目存档计划，类似于 Wayback Machine 之于 In
 
 见 [未来计划](TODOLIST.md)
 
+### 其他资料存档
+
+* cena 评测工具源码：https://github.com/oi-archive/cena
+
