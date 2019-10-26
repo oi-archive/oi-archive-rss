@@ -8,7 +8,7 @@
 
 * [ ] 新增 [CodeVS](http://www.codevs.cn/)
 
-* [ ] 新增 [Lutece](https://acm.uestc.edu.cn/)
+* [x] 新增 [Lutece](https://acm.uestc.edu.cn/)
 
 ### Web端
 
@@ -16,5 +16,5 @@
 
 ### 爬虫
 
-* [ ] 重新设计插件接口
+* [x] 重新设计插件接口
 
