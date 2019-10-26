@@ -5,10 +5,10 @@
 ### 题库
 
 * [ ] 新增 [洛谷](https://www.luogu.org/)
-
 * [ ] 新增 [CodeVS](http://www.codevs.cn/)
-
 * [x] 新增 [Lutece](https://acm.uestc.edu.cn/)
+* [ ] 新增 [JoyOI](http://www.joyoi.cn/)
+* [ ] 新增 [Vijos](https://vijos.org/)
 
 ### Web端
 
